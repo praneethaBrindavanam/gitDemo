@@ -20,10 +20,10 @@ git remote add origin https://github.com/your-username/your-repo.git  #if you ha
 ```
 
 ```
-git push -u origin main         #to push the codes
+git push -u origin main                                               #to push the codes
 ```
 
 ```
-git status                     #This shows which files are untracked or modified.
+git status                                                           #This shows which files are untracked or modified.
 
 ```
